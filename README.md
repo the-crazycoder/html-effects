@@ -1,2 +1,3 @@
-# html-effects
-Testing out different HTML effects. If you have any that you want to submit, open a pull request and it MAY get accepted!
+# HTML effects
+
+This repository is made to create/share website effects that look asthetically pleasing. If any suggestions are sent in that are unsettleing or inappropiate then they will NOT be accepted and might be reported to GitHub.
